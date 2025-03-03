@@ -17,6 +17,8 @@ Lr_scheduler_link:
 Best notebooks:
 TBH.AI_Vortex_with_testing.ipynb
 TBH.AI_Valhala_with_testing.ipynb
+saishshinde15_TethysAI_Vortex_Reasoning_Reasoning_Using_SFT.ipynb
+TethysAI_GRPO.ipynb
 
 
 
